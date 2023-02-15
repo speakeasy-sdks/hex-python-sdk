@@ -1,5 +1,11 @@
 # Hex Python SDK
 
+<div align="center">
+    <a href=""><p>Programmatically run projects with the Hex API.</p></a>
+   <img src="https://img.shields.io/github/actions/workflow/status/speakeasy-sdks/hex-python-sdk/speakeasy_sdk_generation.yml?style=for-the-badge" />
+   <a href="https://learn.hex.tech/docs/develop-logic/hex-api/overview"><img src="https://img.shields.io/static/v1?label=Docs&message=API Ref&color=F5C0C0&style=for-the-badge" /></a>
+</div>
+
 <!-- Start SDK Installation -->
 ## SDK Installation
 
