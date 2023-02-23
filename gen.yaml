@@ -1,9 +1,9 @@
 management:
     openapi-checksum: 321f234b4bb9a775b03d9a16697b37c5
     openapi-version: 1.0.0
-    speakeasy-version: 1.4.5
+    speakeasy-version: 1.4.8
 python:
-    version: 1.2.0
+    version: 1.2.1
     packagename: hex
     author: hex
 sdkclassname: Hex
