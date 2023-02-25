@@ -35,3 +35,9 @@ Based on:
 Based on:
 - OpenAPI Doc 1.0.0 https://static.hex.site/openapi.json
 - Speakeasy CLI 1.5.0 https://github.com/speakeasy-api/speakeasy
+
+## Version 1.3.1
+### Changes
+Based on:
+- OpenAPI Doc 1.0.0 https://static.hex.site/openapi.json
+- Speakeasy CLI 1.5.3 https://github.com/speakeasy-api/speakeasy
