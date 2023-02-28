@@ -1,5 +1,10 @@
 src/hex/sdk.py
 setup.py
+src/hex/__init__.py
+src/hex/models/__init__.py
+src/hex/utils/__init__.py
+src/hex/utils/retries.py
+src/hex/utils/utils.py
 src/hex/models/operations/cancelrun.py
 src/hex/models/operations/getprojectruns.py
 src/hex/models/operations/getrunstatus.py

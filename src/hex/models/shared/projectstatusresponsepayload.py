@@ -1,13 +1,14 @@
+from __future__ import annotations
 import dataclasses
 import dateutil.parser
 from ..shared import projectrunstatus_enum as shared_projectrunstatus_enum
-from dataclasses_json import dataclass_json
+from dataclasses_json import Undefined, dataclass_json
 from datetime import datetime
 from hex import utils
 from marshmallow import fields
 
 
-@dataclass_json
+@dataclass_json(undefined=Undefined.EXCLUDE)
 @dataclasses.dataclass
 class ProjectStatusResponsePayload:
     r"""ProjectStatusResponsePayload
